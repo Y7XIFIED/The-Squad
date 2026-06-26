@@ -51,42 +51,6 @@ The-Squad/
 │       ├── 7.jpg
 │       ├── 8.jpg
 │       └── 9.jpg
-├── dist
-│   ├── assets
-│   │   ├── 10.jpg
-│   │   ├── 11.jpg
-│   │   ├── 12.jpg
-│   │   ├── 13.jpg
-│   │   ├── 14.jpg
-│   │   ├── 15.jpg
-│   │   ├── 16.jpg
-│   │   ├── 17.jpg
-│   │   ├── 18.jpg
-│   │   ├── favicon.png
-│   │   ├── index-Cs8BIydl.js
-│   │   ├── index.css
-│   │   └── Nasalization Rg.otf
-│   ├── faces
-│   │   ├── Ahn Jiwon icon.jpg
-│   │   ├── download (1).jpg
-│   │   ├── download (2).jpg
-│   │   ├── download (3).jpg
-│   │   ├── download.jpg
-│   │   ├── nuh uhhh.jpg
-│   │   ├── pookie.jpg
-│   │   ├── Sharp Middle Part Taper Fade Haircuts.jpg
-│   │   └── sticker funny cat _ _____furukii.jpg
-│   ├── img1.jpeg
-│   ├── img2.jpeg
-│   ├── img3.jpeg
-│   ├── img4.jpeg
-│   ├── img5.jpeg
-│   ├── img6.jpeg
-│   ├── img7.jpeg
-│   ├── img8.jpeg
-│   ├── img9.jpeg
-│   ├── index.html
-│   └── NasalizationRg.otf
 ├── favicon.png
 ├── index.html
 ├── package-lock.json
