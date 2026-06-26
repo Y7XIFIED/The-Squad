@@ -56,25 +56,25 @@ The-Squad/
 ├── package-lock.json
 ├── package.json
 ├── public
+│   ├── 19.jpeg
+│   ├── 20.jpeg
+│   ├── 21.jpeg
+│   ├── 22.jpeg
+│   ├── 23.jpeg
+│   ├── 24.jpeg
+│   ├── 25.jpeg
+│   ├── 26.jpeg
+│   ├── 27.jpeg
 │   ├── faces
-│   │   ├── Ahn Jiwon icon.jpg
-│   │   ├── download (1).jpg
-│   │   ├── download (2).jpg
-│   │   ├── download (3).jpg
-│   │   ├── download.jpg
-│   │   ├── nuh uhhh.jpg
-│   │   ├── pookie.jpg
-│   │   ├── Sharp Middle Part Taper Fade Haircuts.jpg
-│   │   └── sticker funny cat _ _____furukii.jpg
-│   ├── img1.jpeg
-│   ├── img2.jpeg
-│   ├── img3.jpeg
-│   ├── img4.jpeg
-│   ├── img5.jpeg
-│   ├── img6.jpeg
-│   ├── img7.jpeg
-│   ├── img8.jpeg
-│   ├── img9.jpeg
+│   │   ├── 10.jpg
+│   │   ├── 11.jpg
+│   │   ├── 12.jpg
+│   │   ├── 13.jpg
+│   │   ├── 14.jpg
+│   │   ├── 15.jpg
+│   │   ├── 16.jpg
+│   │   ├── 17.jpg
+│   │   └── 18.jpg
 │   └── NasalizationRg.otf
 ├── script.js
 ├── styles.css
