@@ -42,30 +42,30 @@ The-Squad/
 │   ├── fonts
 │   │   └── Nasalization Rg.otf
 │   └── img
-│       ├── Ahn Jiwon icon.jpg
-│       ├── download (1).jpg
-│       ├── download (2).jpg
-│       ├── download (3).jpg
-│       ├── download.jpg
-│       ├── nuh uhhh.jpg
-│       ├── pookie.jpg
-│       ├── Sharp Middle Part Taper Fade Haircuts.jpg
-│       └── sticker funny cat _ _____furukii.jpg
+│       ├── 1.jpg
+│       ├── 2.jpg
+│       ├── 3.jpg
+│       ├── 4.jpg
+│       ├── 5.jpg
+│       ├── 6.jpg
+│       ├── 7.jpg
+│       ├── 8.jpg
+│       └── 9.jpg
 ├── dist
 │   ├── assets
-│   │   ├── Ahn Jiwon icon.jpg
-│   │   ├── download (1).jpg
-│   │   ├── download (2).jpg
-│   │   ├── download (3).jpg
-│   │   ├── download.jpg
+│   │   ├── 10.jpg
+│   │   ├── 11.jpg
+│   │   ├── 12.jpg
+│   │   ├── 13.jpg
+│   │   ├── 14.jpg
+│   │   ├── 15.jpg
+│   │   ├── 16.jpg
+│   │   ├── 17.jpg
+│   │   ├── 18.jpg
 │   │   ├── favicon.png
 │   │   ├── index-Cs8BIydl.js
 │   │   ├── index.css
-│   │   ├── Nasalization Rg.otf
-│   │   ├── nuh uhhh.jpg
-│   │   ├── pookie.jpg
-│   │   ├── Sharp Middle Part Taper Fade Haircuts.jpg
-│   │   └── sticker funny cat _ _____furukii.jpg
+│   │   └── Nasalization Rg.otf
 │   ├── faces
 │   │   ├── Ahn Jiwon icon.jpg
 │   │   ├── download (1).jpg
