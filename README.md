@@ -1,4 +1,4 @@
-<h3 align="center"><b>THE SQUAD</b></h3>
+<h3 align="center"><b>The Squad</b></h3>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite,gsap" /></p>
 
