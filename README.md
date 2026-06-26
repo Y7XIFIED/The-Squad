@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/the-squad-interactive.git
-cd the-squad-interactive
+git clone https://github.com/Y7XIFIED/The-Squad.git
+cd The-Squad
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-the-squad-interactive/
+The-Squad/
 ├── .DS_Store
 ├── .gitignore
 ├── .vercel
