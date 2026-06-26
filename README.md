@@ -5,7 +5,7 @@
 Step into a world of dynamic motion and fluid interactions. A purely fun and wildly creative web experiment.
 
 ## 🚀 Live Website
-Experience the fully interactive website live here: [https://the-squad-interactive.vercel.app](https://the-squad-interactive.vercel.app)
+Experience the fully interactive website live here: [Live Demo](https://the-squad-interactive.vercel.app)
 
 ## Preview
 ![Preview Demo](preview.gif)
